@@ -7,7 +7,6 @@ Description:
 
 This Java-based Tetris clone features an adaptive difficulty system where the game speeds up every five lines cleared. 
 
-
 Tetris challenges players to fit falling blocks together to form complete lines, clearing them to prevent the stack from reaching the top. The goal is to achieve high scores by clearing lines and managing the increasing speed as the game progresses.
 
 The controls are straightforward:
