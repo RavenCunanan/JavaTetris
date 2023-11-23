@@ -1,2 +1,2 @@
 # JavaTetris
-A Tetris Clone made in Java
+A Tetris Clone made in Java by Raven Cunanan
