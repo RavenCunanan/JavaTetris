@@ -20,4 +20,8 @@ Escape: Pause the game.
 
 Experience the classic Tetris gameplay with a dynamic challenge that progressively increases in difficulty. Test your skills and adaptability in this Java Tetris clone as you strive to clear lines and reach higher levels amidst the accelerating pace.
 
-one.PNG
+![image](https://github.com/RavenCunanan/JavaTetris/assets/63638637/b9c7b296-e711-4de8-9ec0-d9234c62dc93)
+
+
+
+![one](https://github.com/RavenCunanan/JavaTetris/assets/63638637/e88af604-74a2-469c-8f5d-b69c417c2a89)
